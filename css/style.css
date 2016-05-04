@@ -1,0 +1,74 @@
+@font-face {
+    font-family: NEO;
+    src: url(../fonts/HVD-NEO.ttf);
+}
+
+@font-face {
+    font-family: borda;
+    src: url(../fonts/Borda%20DemiBold.ttf);
+}
+
+body {
+    /*background-color: #000000 !important;*/
+}
+
+.title, .title:hover, .title:focus {
+    font-family: NEO, sans-serif;
+    text-decoration: none;
+    color: #00C853;
+}
+
+.title h1 {
+    padding: 20px 10px 20px 10px;
+    margin: 20px 0 0 0;
+}
+
+.line  {
+    border-top: 5px solid #000000;
+    z-index: -1;
+}
+
+.avatar {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid #000000;
+    padding: 10px;
+    margin: 20px auto;
+    background-color: #ffffff;
+}
+
+.description {
+    color: #000;
+    padding: 10px;
+    font-family: borda, sans-serif;
+    font-size: 27px;
+    margin: 0 auto;
+    max-width: 60%;
+}
+
+.fa {
+    color: #000;
+    font-size: 150px !important;
+}
+
+.links {
+    list-style-type: armenian;
+}
+
+li {
+    padding: 0 30px !important;
+}
+
+.fa-rss {
+    color: #FF6D00;
+}
+
+.fa-twitter {
+    color: #2962FF;
+}
+
+.fa-envelope {
+    color: #D50000;
+}
+
