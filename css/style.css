@@ -26,6 +26,13 @@ body {
 .line  {
     border-top: 5px solid #000000;
     z-index: -1;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    margin: 0 auto;
+}
+.image {
+    position: relative;
 }
 
 .avatar {
