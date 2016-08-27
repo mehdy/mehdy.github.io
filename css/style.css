@@ -12,18 +12,18 @@ body {
     /*background-color: #000000 !important;*/
 }
 
-.title, .title:hover, .title:focus {
+.headline, .headline:hover, .headline:focus {
     font-family: NEO, sans-serif;
     text-decoration: none;
     color: #00C853;
 }
 
-.title h1 {
+.headline h1 {
     padding: 20px 10px 20px 10px;
     margin: 20px 0 0 0;
 }
 
-.line  {
+.line {
     border-top: 5px solid #000000;
     z-index: -1;
     position: absolute;
@@ -45,13 +45,26 @@ body {
     background-color: #ffffff;
 }
 
+.title {
+    font-size: 35px;
+}
+
+div.bitheart {
+  font-size: 27px !important;
+  color: red;
+}
+
 .description {
     color: #000;
     padding: 10px;
-    font-family: borda, sans-serif;
-    font-size: 27px;
+    font-size: 22px;
     margin: 0 auto;
     max-width: 60%;
+}
+
+.about {
+    font-family: borda, sans-serif;
+    font-size: 27px;
 }
 
 .fa {
@@ -79,3 +92,7 @@ li {
     color: #D50000;
 }
 
+.fa-bitcoin {
+    color: #FFD700;
+    cursor: pointer;
+}
