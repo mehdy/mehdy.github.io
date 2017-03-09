@@ -1,4 +1,0 @@
-mehdy
-=====
-
-My personal homepage
