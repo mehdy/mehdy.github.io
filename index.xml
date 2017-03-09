@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The DevOps</title>
-    <link>https://blog.mehdy.net/index.xml</link>
+    <link>https://mehdy.me/index.xml</link>
     <description>Recent content on The DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://blog.mehdy.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mehdy.me/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

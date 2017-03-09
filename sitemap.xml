@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.mehdy.net/archives/</loc>
+    <loc>https://mehdy.me/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.mehdy.net/categories/</loc>
+    <loc>https://mehdy.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.mehdy.net/tags/</loc>
+    <loc>https://mehdy.me/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.mehdy.net/</loc>
+    <loc>https://mehdy.me/</loc>
     <priority>0</priority>
   </url>
   
