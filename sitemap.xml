@@ -2,7 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mehdy.me/2017/03/the-devops/</loc>
+    <lastmod>2017-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/tags/blog/</loc>
+    <lastmod>2017-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -12,12 +23,26 @@
   </url>
   
   <url>
+    <loc>https://mehdy.me/tags/devops/</loc>
+    <lastmod>2017-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/post/</loc>
+    <lastmod>2017-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/tags/</loc>
+    <lastmod>2017-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mehdy.me/</loc>
+    <lastmod>2017-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
