@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The DevOps</title>
-    <link>https://mehdy.me/tags/index.xml</link>
+    <link>https://mehdy.me/tags/</link>
     <description>Recent content in Tags on The DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mehdy.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mehdy.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Blog</title>
@@ -19,11 +21,56 @@
     </item>
     
     <item>
+      <title>Community</title>
+      <link>https://mehdy.me/tags/community/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Devops</title>
       <link>https://mehdy.me/tags/devops/</link>
       <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mehdy.me/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pug</title>
+      <link>https://mehdy.me/tags/pug/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/pug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://mehdy.me/tags/python/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tehpug</title>
+      <link>https://mehdy.me/tags/tehpug/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/tehpug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tehran</title>
+      <link>https://mehdy.me/tags/tehran/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/tehran/</guid>
       <description></description>
     </item>
     

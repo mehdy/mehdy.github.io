@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The DevOps</title>
-    <link>https://mehdy.me/post/</link>
-    <description>Recent content in Posts on The DevOps</description>
+    <title>Python on The DevOps</title>
+    <link>https://mehdy.me/categories/python/</link>
+    <description>Recent content in Python on The DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mehdy.me/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mehdy.me/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://mehdy.me/2017/05/the-tehpug/</guid>
       <description>&lt;p&gt;let me introduce &lt;a href=&#34;http://tehpug.ir&#34;&gt;TehPUG&lt;/a&gt;. TehPUG is the Tehran Python Users Group like any other PUG around the world. People who love python or have heard it recently and want to learn more about it. We have meetups every month. Come and join us if you love python too.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The DevOps</title>
-      <link>https://mehdy.me/2017/03/the-devops/</link>
-      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mehdy.me/2017/03/the-devops/</guid>
-      <description>&lt;p&gt;I decided to start bloging again. I saw myself in a new situation with new insights. so I came up with &amp;ldquo;The DevOps&amp;rdquo; blog idea.
 &lt;/p&gt;</description>
     </item>
     

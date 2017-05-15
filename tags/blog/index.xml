@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on The DevOps</title>
-    <link>https://mehdy.me/tags/blog/index.xml</link>
+    <link>https://mehdy.me/tags/blog/</link>
     <description>Recent content in Blog on The DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mehdy.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mehdy.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The DevOps</title>
@@ -15,21 +18,7 @@
       
       <guid>https://mehdy.me/2017/03/the-devops/</guid>
       <description>&lt;p&gt;I decided to start bloging again. I saw myself in a new situation with new insights. so I came up with &amp;ldquo;The DevOps&amp;rdquo; blog idea.
-&lt;/p&gt;
-
-&lt;h1 id=&#34;the-name&#34;&gt;The Name&lt;/h1&gt;
-
-&lt;p&gt;As I said I saw myself in a new situation. Now I&amp;rsquo;m a DevOps. I have different different goals and concerns. So I looked around and the most frequent and relevant word that I found was &amp;ldquo;DevOps&amp;rdquo;. So I simply named my blog &amp;ldquo;The DevOps&amp;rdquo; which is refering to &lt;a href=&#34;https://mehdy.me/#about&#34;&gt;me&lt;/a&gt; as a DevOps.&lt;/p&gt;
-
-&lt;h1 id=&#34;the-idea&#34;&gt;The Idea&lt;/h1&gt;
-
-&lt;p&gt;&amp;ldquo;The DevOps&amp;rdquo; will be a place for me to share my ideas and insights around mostly the &amp;ldquo;DevOps&amp;rdquo; subject which for me it includes: &lt;a href=&#34;https://mehdy.me/categories/maintainability&#34;&gt;Maintainability&lt;/a&gt;, &lt;a href=&#34;https://mehdy.me/categories/scalability&#34;&gt;Scalability&lt;/a&gt;, &lt;a href=&#34;https://mehdy.me/categories/microservices&#34;&gt;Microservices&lt;/a&gt;, &lt;a href=&#34;https://mehdy.me/categories/cloud&#34;&gt;Cloud&lt;/a&gt;, &lt;a href=&#34;https://mehdy.me/categories/golang&#34;&gt;Golang&lt;/a&gt;, &lt;a href=&#34;https://mehdy.me/categories/python&#34;&gt;Python&lt;/a&gt; and more on. I&amp;rsquo;d like to write about anything that thrills me, maybe one day a non-DevOps thing and maybe some other day a deep and on-edge-of-science DevOps thing.&lt;/p&gt;
-
-&lt;h1 id=&#34;good-luck&#34;&gt;Good Luck&lt;/h1&gt;
-
-&lt;p&gt;I&amp;rsquo;ve always wanted to have a kinda-successful blog, but I always was too lazy to be a good blogger. I wish and try hard to make this time different. so I wish myself a &amp;ldquo;Good Luck&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Here and always feel free to comment :)&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
   </channel>
