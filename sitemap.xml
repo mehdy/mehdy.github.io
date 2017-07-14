@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mehdy.me/2017/07/copying-commands-from-host-to-vm/</loc>
+    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/2017/05/the-battlefield/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
   </url>
@@ -52,8 +57,26 @@
   </url>
   
   <url>
+    <loc>https://mehdy.me/tags/hack/</loc>
+    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/tags/linux/</loc>
+    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/categories/linux/</loc>
+    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/post/</loc>
-    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,6 +105,12 @@
   </url>
   
   <url>
+    <loc>https://mehdy.me/tags/ssh/</loc>
+    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/tags/</loc>
     <lastmod>2017-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -101,7 +130,13 @@
   
   <url>
     <loc>https://mehdy.me/</loc>
-    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/tags/vm/</loc>
+    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

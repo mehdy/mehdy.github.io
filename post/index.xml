@@ -6,10 +6,22 @@
     <description>Recent content in Posts on The DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mehdy.me/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Copying commands from host to VM</title>
+      <link>https://mehdy.me/2017/07/copying-commands-from-host-to-vm/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/2017/07/copying-commands-from-host-to-vm/</guid>
+      <description>&lt;p&gt;I was following an instruction to deploy an application on a virtualbox VM and I wanted to execute the long commands.
+By default it’s not possible to copy those command into the VM.
+VirtualBox has a shared clipboard feature which I tried to get it working but it didn&amp;rsquo;t happen so I didn’t dig into it and I came up with a funny hack :D
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The Battlefield</title>
