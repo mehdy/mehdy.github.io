@@ -48,6 +48,24 @@
     </item>
     
     <item>
+      <title>Go</title>
+      <link>https://mehdy.me/tags/go/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://mehdy.me/tags/golang/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hack</title>
       <link>https://mehdy.me/tags/hack/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
@@ -62,6 +80,24 @@
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mehdy.me/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nil</title>
+      <link>https://mehdy.me/tags/nil/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/nil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pointer</title>
+      <link>https://mehdy.me/tags/pointer/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/pointer/</guid>
       <description></description>
     </item>
     
@@ -89,6 +125,15 @@
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mehdy.me/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receiver</title>
+      <link>https://mehdy.me/tags/receiver/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/tags/receiver/</guid>
       <description></description>
     </item>
     

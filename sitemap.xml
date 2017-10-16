@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mehdy.me/2017/10/the-story-of-a-nil-pointer-receiver/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/2017/07/copying-commands-from-host-to-vm/</loc>
     <lastmod>2017-07-14T00:00:00+00:00</lastmod>
   </url>
@@ -57,6 +62,24 @@
   </url>
   
   <url>
+    <loc>https://mehdy.me/tags/go/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/categories/go/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/tags/golang/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/tags/hack/</loc>
     <lastmod>2017-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -75,8 +98,20 @@
   </url>
   
   <url>
+    <loc>https://mehdy.me/tags/nil/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/tags/pointer/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/post/</loc>
-    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -101,6 +136,12 @@
   <url>
     <loc>https://mehdy.me/categories/python/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/tags/receiver/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -130,7 +171,7 @@
   
   <url>
     <loc>https://mehdy.me/</loc>
-    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
