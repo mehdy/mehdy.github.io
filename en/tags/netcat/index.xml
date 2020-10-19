@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netcat on Mehdy Khoshnoody</title>
+    <link>https://mehdy.me/en/tags/netcat/</link>
+    <description>Recent content in Netcat on Mehdy Khoshnoody</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://mehdy.me/en/tags/netcat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fun Hack: Copy commands to a local VM without clipboard</title>
+      <link>https://mehdy.me/en/posts/2017/07/fun-hack-copy-commands-to-a-local-vm-without-clipboard/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/en/posts/2017/07/fun-hack-copy-commands-to-a-local-vm-without-clipboard/</guid>
+      <description>I was following an instruction to deploy an application on a Virtualbox VM and I wanted to execute the long commands. By default it’s not possible to copy those command into the VM. VirtualBox has a shared clipboard feature which I tried to get it working but it didn&amp;rsquo;t happen so I didn’t dig into it and I came up with a funny hack :D I sent the commands through a socket :)</description>
+    </item>
+    
+  </channel>
+</rss>

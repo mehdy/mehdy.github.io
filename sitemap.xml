@@ -1,158 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://mehdy.me/tags/blogging/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://mehdy.me/en/sitemap.xml</loc>
+    
+      <lastmod>2020-10-17T10:10:00+03:30</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://mehdy.me/tags/fun/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://mehdy.me/fa/sitemap.xml</loc>
+    
+      <lastmod>2020-10-19T10:10:00+03:30</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://mehdy.me/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/personal/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/posts/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/posts/2020/08/the-journey-of-blogging-for-fun/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/database/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/go/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/golang/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/pointer/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/postgresql/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/posts/2017/10/the-story-of-a-nil-pointer-receiver/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/posts/2017/07/fun-hack-copy-commands-to-a-local-vm-without-clipboard/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/hack/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/linux/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/netcat/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/ssh/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/vm/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/django/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/oss/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/project/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/python/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/tehpug/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/posts/2017/05/the-battlefield/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/community/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/pug/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/tags/tehran/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/posts/2017/05/the-tehpug/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/archives/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/archives/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
