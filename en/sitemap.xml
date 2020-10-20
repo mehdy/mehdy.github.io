@@ -191,18 +191,4 @@
                 />
   </url>
   
-  <url>
-    <loc>https://mehdy.me/en/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mehdy.me/fa/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdy.me/en/archives/"
-                />
-  </url>
-  
 </urlset>
