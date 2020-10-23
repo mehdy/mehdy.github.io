@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mehdy.me/fa/pages/</loc>
+    <lastmod>2020-10-23T14:16:00+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdy.me/en/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mehdy.me/fa/pages/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/fa/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/</loc>
+    <lastmod>2020-10-23T14:16:00+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdy.me/en/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mehdy.me/fa/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/fa/</loc>
+    <lastmod>2020-10-23T14:16:00+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdy.me/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mehdy.me/fa/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/fa/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87%D9%94-%D9%85%D9%86/</loc>
+    <lastmod>2020-10-23T14:15:00+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdy.me/en/about-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mehdy.me/fa/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87%D9%94-%D9%85%D9%86/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/fa/posts/2020/01/career-coaching-%DA%86%DB%8C%D9%87-%D9%88-%DA%86%D8%B1%D8%A7-%D8%A8%D9%87%D8%B4-%D9%86%DB%8C%D8%A7%D8%B2-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85/</loc>
     <lastmod>2020-10-19T10:10:00+03:30</lastmod>
   </url>
@@ -45,21 +105,6 @@
   <url>
     <loc>https://mehdy.me/fa/tags/%D9%85%D8%B1%D8%A8%DB%8C%DA%AF%D8%B1%DB%8C/</loc>
     <lastmod>2020-10-19T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/fa/</loc>
-    <lastmod>2020-10-19T10:10:00+03:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdy.me/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mehdy.me/fa/"
-                />
   </url>
   
   <url>

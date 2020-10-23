@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mehdy.me/en/tags/blogging/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/en/tags/fun/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mehdy.me/en/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
+    <lastmod>2020-10-23T14:16:00+03:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -25,6 +15,61 @@
                 hreflang="en"
                 href="https://mehdy.me/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/pages/</loc>
+    <lastmod>2020-10-23T14:16:00+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mehdy.me/fa/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdy.me/en/pages/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/services/</loc>
+    <lastmod>2020-10-23T14:16:00+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mehdy.me/fa/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdy.me/en/services/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/about-me/</loc>
+    <lastmod>2020-10-23T14:15:00+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mehdy.me/fa/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87%D9%94-%D9%85%D9%86/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdy.me/en/about-me/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/tags/blogging/</loc>
+    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/tags/fun/</loc>
+    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
   </url>
   
   <url>
