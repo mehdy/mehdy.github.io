@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitLens on Mehdy Khoshnoody</title>
+    <link>https://mehdy.me/en/tags/gitlens/</link>
+    <description>Recent content in GitLens on Mehdy Khoshnoody</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jan 2021 16:30:00 +0330</lastBuildDate><atom:link href="https://mehdy.me/en/tags/gitlens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How GitLens enhanced my commits</title>
+      <link>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</link>
+      <pubDate>Fri, 08 Jan 2021 16:30:00 +0330</pubDate>
+      
+      <guid>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</guid>
+      <description>I&amp;rsquo;ve been using GitLens on VS Code since always! The reason I Installed GitLens is being one of the most popular and recommended extensions on the marketplace. But recently I&amp;rsquo;ve noticed how its current line blame feature has made my whole committing process much better.
+Of course, I knew about Git blame long before even GitLens came into existence. Although it&amp;rsquo;s a great tool to exploit git history, It&amp;rsquo;s not handy and easy to use and so it&amp;rsquo;s not commonly used.</description>
+    </item>
+    
+  </channel>
+</rss>

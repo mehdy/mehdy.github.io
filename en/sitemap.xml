@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mehdy.me/en/tags/git/</loc>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/tags/gitlens/</loc>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</loc>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mehdy.me/en/</loc>
-    <lastmod>2020-10-23T14:16:00+03:30</lastmod>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -15,6 +30,41 @@
                 hreflang="en"
                 href="https://mehdy.me/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/posts/</loc>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mehdy.me/fa/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdy.me/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/tags/</loc>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mehdy.me/fa/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdy.me/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehdy.me/en/tags/vs-code/</loc>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
   </url>
   
   <url>
@@ -75,36 +125,6 @@
   <url>
     <loc>https://mehdy.me/en/tags/personal/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/en/posts/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mehdy.me/fa/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdy.me/en/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mehdy.me/en/tags/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mehdy.me/fa/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdy.me/en/tags/"
-                />
   </url>
   
   <url>
