@@ -4,6 +4,10 @@
     <title>Posts on Mehdy Khoshnoody</title>
     <link>https://mehdy.me/en/posts/</link>
     <description>Recent content in Posts on Mehdy Khoshnoody</description>
+    <image>
+      <url>https://mehdy.me/images/avatar.jpg</url>
+      <link>https://mehdy.me/images/avatar.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 08 Jan 2021 16:30:00 +0330</lastBuildDate><atom:link href="https://mehdy.me/en/posts/index.xml" rel="self" type="application/rss+xml" />
