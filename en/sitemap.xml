@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mehdy.me/en/tags/git/</loc>
     <lastmod>2021-01-08T16:30:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/gitlens/</loc>
     <lastmod>2021-01-08T16:30:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</loc>
     <lastmod>2021-01-08T16:30:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/</loc>
-    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+    <lastmod>2021-04-19T20:00:00+03:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -30,9 +23,7 @@
                 hreflang="en"
                 href="https://mehdy.me/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/posts/</loc>
     <lastmod>2021-01-08T16:30:00+03:30</lastmod>
     <xhtml:link
@@ -45,9 +36,7 @@
                 hreflang="en"
                 href="https://mehdy.me/en/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/</loc>
     <lastmod>2021-01-08T16:30:00+03:30</lastmod>
     <xhtml:link
@@ -60,16 +49,12 @@
                 hreflang="en"
                 href="https://mehdy.me/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/vs-code/</loc>
     <lastmod>2021-01-08T16:30:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/pages/</loc>
-    <lastmod>2020-10-23T14:16:00+03:30</lastmod>
+    <lastmod>2021-04-19T20:00:00+03:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -80,9 +65,7 @@
                 hreflang="en"
                 href="https://mehdy.me/en/pages/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/services/</loc>
     <lastmod>2020-10-23T14:16:00+03:30</lastmod>
     <xhtml:link
@@ -95,11 +78,9 @@
                 hreflang="en"
                 href="https://mehdy.me/en/services/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/about-me/</loc>
-    <lastmod>2020-10-23T14:15:00+03:30</lastmod>
+    <lastmod>2021-04-19T20:00:00+03:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -110,139 +91,85 @@
                 hreflang="en"
                 href="https://mehdy.me/en/about-me/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/blogging/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/fun/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/personal/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/posts/2020/08/the-journey-of-blogging-for-fun/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/database/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/go/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/golang/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/pointer/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/postgresql/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/posts/2017/10/the-story-of-a-nil-pointer-receiver/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/posts/2017/07/fun-hack-copy-commands-to-a-local-vm-without-clipboard/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/hack/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/linux/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/netcat/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/ssh/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/vm/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/django/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/oss/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/project/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/python/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/tehpug/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/posts/2017/05/the-battlefield/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/community/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/pug/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/tags/tehran/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/posts/2017/05/the-tehpug/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mehdy.me/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -255,5 +182,4 @@
                 href="https://mehdy.me/en/archives/"
                 />
   </url>
-  
 </urlset>
