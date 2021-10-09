@@ -9,7 +9,7 @@
 چون خود ویدیو به صورت مکالمه‌ی بین دو نفره و من مستقلا در مورد خود موضوع می‌خوام بنویسم کمی متفاوت میشه این متن از ویدیو. ولی تلاش می‌کنم دخل و تصرفی تو خود بحث نداشته باشم و صرفا بعضی جاها توضیحات بیشتری بدم.">
 <meta name=author content="مهدی خوشنودی">
 <link rel=canonical href=https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.35cd0f65a15cafa92372b8313deef5960aae04b90ad722f2bbf509eb0468137e.css integrity="sha256-Nc0PZaFcr6kjcrgxPe71lgquBLkK1yLyu/UJ6wRoE34=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.5e2b4101351c21e906f398ae96901791830f58d430f96f2659dab7eaef7b3cb7.css integrity="sha256-XitBATUcIekG85iulpAXkYMPWNQw+W8mWdq36u97PLc=" rel="preload stylesheet" as=style>
 <script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
 <link rel=icon href=https://mehdy.me/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=https://mehdy.me/favicon-16x16.png>
@@ -20,7 +20,10 @@
 <meta name=msapplication-TileColor content="#2e2e33">
 <meta name=generator content="Hugo 0.88.1">
 <link rel=alternate hreflang=fa href=https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/>
-<link href=/styles/custom.css rel="preload stylesheet">
+<noscript>
+<style>#theme-toggle,.top-link{display:none}</style>
+<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
+</noscript><link href=/styles/custom.css rel="preload stylesheet">
 <link href=https://cdn.jsdelivr.net/gh/rastikerdar/samim-font@v4.0.5/dist/font-face.css rel=stylesheet type=text/css>
 <style>html body{font-family:Samim,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif}</style>
 <script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-171541179-1','auto'),ga('send','pageview'))</script><meta property="og:title" content="تفاوت دواپس(DevOps) و اس‌آر‌ای (SRE)">
@@ -41,10 +44,6 @@
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
-<noscript>
-<style type=text/css>#theme-toggle,.top-link{display:none}</style>
-<style>@media(prefers-color-scheme:dark){:root{--theme:#1d1e20;--entry:#2e2e33;--primary:rgba(255, 255, 255, 0.84);--secondary:rgba(255, 255, 255, 0.56);--tertiary:rgba(255, 255, 255, 0.16);--content:rgba(255, 255, 255, 0.74);--hljs-bg:#2e2e33;--code-bg:#37383e;--border:#333}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
-</noscript>
 <header class=header>
 <nav class=nav>
 <div class=logo>
@@ -98,7 +97,7 @@
 </div>
 </header>
 <figure class=entry-cover>
-<img loading=lazy srcset="https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_360x0_resize_box_3.png 360w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_480x0_resize_box_3.png 480w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_720x0_resize_box_3.png 720w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_1080x0_resize_box_3.png 1080w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_1500x0_resize_box_3.png 1500w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers.png 4145w" sizes="(min-width: 768px) 720px, 100vw" src=https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers.png alt="تفاوت دواپس(DevOps) و اس‌آر‌ای (SRE)">
+<img loading=lazy srcset="https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_360x0_resize_box_3.png 360w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_480x0_resize_box_3.png 480w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_720x0_resize_box_3.png 720w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_1080x0_resize_box_3.png 1080w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers_hu553abf44eacacd28c5946aec252f917f_574802_1500x0_resize_box_3.png 1500w ,https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers.png 4145w" sizes="(min-width: 768px) 720px, 100vw" src=https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/devops-sre-barriers.png alt="تفاوت دواپس(DevOps) و اس‌آر‌ای (SRE)" width=4145 height=1800>
 </figure>
 <div class=post-content><p>چند وقت پیش ویدیویی در مورد تفاوت دواپس و اس‌آر‌ای از گوگل دیدم که به نظرم به صورت ساده و مختصر همه چیز رو به خوبی توضیح داده بود. من هم سعی می‌کنم چیزهایی که ازش یاد گرفتم رو اینجا بنویسم و به اشتراک بذارم.</p>
 <p><em>چون خود ویدیو به صورت مکالمه‌ی بین دو نفره و من مستقلا در مورد خود موضوع می‌خوام بنویسم کمی متفاوت میشه این متن از ویدیو. ولی تلاش می‌کنم دخل و تصرفی تو خود بحث نداشته باشم و صرفا بعضی جاها توضیحات بیشتری بدم.</em></p>
@@ -176,9 +175,7 @@ Powered by
         <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a>
 </span>
 </footer>
-<a href=#top aria-label="go to top" title="Go to Top (Alt + G)">
-<button class=top-link id=top-link type=button accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
-</button>
+<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
 </a>
 <script>let menu=document.getElementById('menu');menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)},document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
 <script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
