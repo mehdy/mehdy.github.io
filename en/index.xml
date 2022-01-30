@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehdy Khoshnoody</title>
     <link>https://mehdy.me/en/</link>
     <description>Recent content on Mehdy Khoshnoody</description>
-    <image>
-      <url>https://mehdy.me/images/avatar.jpg</url>
-      <link>https://mehdy.me/images/avatar.jpg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 08 Jan 2021 16:30:00 +0330</lastBuildDate><atom:link href="https://mehdy.me/en/index.xml" rel="self" type="application/rss+xml" />
@@ -92,6 +88,14 @@ So far till now I experienced some projects and activities that didn&amp;rsquo;t
 A little background I was new to python when I joined TehPUG in its early days. There were people who helped me learn more about python and even give me a chance to do some practical stuffs.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://mehdy.me/en/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdy.me/en/archives/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
