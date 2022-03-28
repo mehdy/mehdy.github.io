@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://mehdy.me/sitemap.xml
