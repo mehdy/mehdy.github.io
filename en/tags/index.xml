@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Jan 2021 16:30:00 +0330</lastBuildDate><atom:link href="https://mehdy.me/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Feb 2022 15:00:00 +0300</lastBuildDate><atom:link href="https://mehdy.me/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithm</title>
+      <link>https://mehdy.me/en/tags/algorithm/</link>
+      <pubDate>Thu, 10 Feb 2022 15:00:00 +0300</pubDate>
+      
+      <guid>https://mehdy.me/en/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fun</title>
+      <link>https://mehdy.me/en/tags/fun/</link>
+      <pubDate>Thu, 10 Feb 2022 15:00:00 +0300</pubDate>
+      
+      <guid>https://mehdy.me/en/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem</title>
+      <link>https://mehdy.me/en/tags/problem/</link>
+      <pubDate>Thu, 10 Feb 2022 15:00:00 +0300</pubDate>
+      
+      <guid>https://mehdy.me/en/tags/problem/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Git</title>
       <link>https://mehdy.me/en/tags/git/</link>
@@ -44,15 +71,6 @@
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mehdy.me/en/tags/blogging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fun</title>
-      <link>https://mehdy.me/en/tags/fun/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mehdy.me/en/tags/fun/</guid>
       <description></description>
     </item>
     

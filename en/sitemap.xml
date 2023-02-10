@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdy.me/en/tags/git/</loc>
-    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+    <loc>https://mehdy.me/en/tags/algorithm/</loc>
+    <lastmod>2022-02-10T15:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mehdy.me/en/tags/gitlens/</loc>
-    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+    <loc>https://mehdy.me/en/posts/2022/02/can-you-solve-this/</loc>
+    <lastmod>2022-02-10T15:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</loc>
-    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+    <loc>https://mehdy.me/en/tags/fun/</loc>
+    <lastmod>2022-02-10T15:00:00+03:00</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/</loc>
-    <lastmod>2021-04-19T20:00:00+03:30</lastmod>
+    <lastmod>2022-02-10T15:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -25,7 +25,7 @@
                 />
   </url><url>
     <loc>https://mehdy.me/en/posts/</loc>
-    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+    <lastmod>2022-02-10T15:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -37,8 +37,11 @@
                 href="https://mehdy.me/en/posts/"
                 />
   </url><url>
+    <loc>https://mehdy.me/en/tags/problem/</loc>
+    <lastmod>2022-02-10T15:00:00+03:00</lastmod>
+  </url><url>
     <loc>https://mehdy.me/en/tags/</loc>
-    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+    <lastmod>2022-02-10T15:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -49,6 +52,15 @@
                 hreflang="en"
                 href="https://mehdy.me/en/tags/"
                 />
+  </url><url>
+    <loc>https://mehdy.me/en/tags/git/</loc>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/gitlens/</loc>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</loc>
+    <lastmod>2021-01-08T16:30:00+03:30</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/tags/vs-code/</loc>
     <lastmod>2021-01-08T16:30:00+03:30</lastmod>
@@ -93,9 +105,6 @@
                 />
   </url><url>
     <loc>https://mehdy.me/en/tags/blogging/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url><url>
-    <loc>https://mehdy.me/en/tags/fun/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/tags/personal/</loc>
