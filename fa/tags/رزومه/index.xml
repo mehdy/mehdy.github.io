@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>رزومه on مهدی خوشنودی</title>
     <link>https://mehdy.me/fa/tags/%D8%B1%D8%B2%D9%88%D9%85%D9%87/</link>
@@ -11,16 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Mon, 09 Nov 2020 22:30:00 +0330</lastBuildDate><atom:link href="https://mehdy.me/fa/tags/%D8%B1%D8%B2%D9%88%D9%85%D9%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 22:30:00 +0330</lastBuildDate>
+    <atom:link href="https://mehdy.me/fa/tags/%D8%B1%D8%B2%D9%88%D9%85%D9%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>سیر تا پیاز سنجاب</title>
       <link>https://mehdy.me/fa/posts/2020/11/%D8%B3%DB%8C%D8%B1-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%A7%D8%B2-%D8%B3%D9%86%D8%AC%D8%A7%D8%A8/</link>
       <pubDate>Mon, 09 Nov 2020 22:30:00 +0330</pubDate>
-      
       <guid>https://mehdy.me/fa/posts/2020/11/%D8%B3%DB%8C%D8%B1-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%A7%D8%B2-%D8%B3%D9%86%D8%AC%D8%A7%D8%A8/</guid>
       <description>سنجاب (Sanjjob) یک پروژهٔ خیلی ساده بود تا به کسایی که می‌خوان مسیر حرفه‌ایشون رو بهبود بدن کمک کنیم. این خدمات رو در قالب «نقد و بررسی رزومه»، «نوشتن رزومه» و «مشاورهٔ مسیر حرفه‌ای» ارائه می‌دادیم. تو این پست خلاصه‌ای از داستان شکل‌گیری و ادامهٔ مسیر این پروژه نوشته‌ام.
 اولین برخورد من با رزومه شنبه ۱۴ تیر ۹۳ یک آگهی استخدام دولوپر پایتون برای شرکت خاک، که متاسفانه الان دیگه وجود نداره، دیدم.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TehPUG on Mehdi Khoshnoodi</title>
     <link>https://mehdy.me/en/tags/tehpug/</link>
@@ -11,27 +11,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://mehdy.me/en/tags/tehpug/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mehdy.me/en/tags/tehpug/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Battlefield</title>
       <link>https://mehdy.me/en/posts/2017/05/the-battlefield/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://mehdy.me/en/posts/2017/05/the-battlefield/</guid>
       <description>Battlefield is a project that I&amp;rsquo;ve started in TehPUG. you can read the story behind it and see how I decided to start this project here.
 So far till now I experienced some projects and activities that didn&amp;rsquo;t work out as I expected. I asked my self what are the requirements to activate and motivate TehPUG. I came up with a few answers&amp;hellip;
 It should be suitable for everyone. from the very beginner that learned something about python today to the python expert.</description>
     </item>
-    
     <item>
       <title>The TehPUG</title>
       <link>https://mehdy.me/en/posts/2017/05/the-tehpug/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://mehdy.me/en/posts/2017/05/the-tehpug/</guid>
       <description>Let me introduce TehPUG. TehPUG is the Tehran Python Users Group like any other PUG around the world. People who love python or have heard it recently and want to learn more about it. We have meetups every month. Come and join us if you love python too.
 A little background I was new to python when I joined TehPUG in its early days. There were people who helped me learn more about python and even give me a chance to do some practical stuffs.</description>
     </item>
-    
   </channel>
 </rss>

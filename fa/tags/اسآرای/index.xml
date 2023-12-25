@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>اس‌آر‌ای on مهدی خوشنودی</title>
     <link>https://mehdy.me/fa/tags/%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C/</link>
@@ -11,16 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://mehdy.me/fa/tags/%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mehdy.me/fa/tags/%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>تفاوت دواپس(DevOps) و اس‌آر‌ای (SRE)</title>
       <link>https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://mehdy.me/fa/posts/2018/06/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%AF%D9%88%D8%A7%D9%BE%D8%B3devops-%D9%88-%D8%A7%D8%B3%D8%A2%D8%B1%D8%A7%DB%8C-sre/</guid>
       <description>چند وقت پیش ویدیویی در مورد تفاوت دواپس و اس‌آر‌ای از گوگل دیدم که به نظرم به صورت ساده و مختصر همه چیز رو به خوبی توضیح داده بود. من هم سعی می‌کنم چیزهایی که ازش یاد گرفتم رو اینجا بنویسم و به اشتراک بذارم.
 چون خود ویدیو به صورت مکالمه‌ی بین دو نفره و من مستقلا در مورد خود موضوع می‌خوام بنویسم کمی متفاوت میشه این متن از ویدیو. ولی تلاش می‌کنم دخل و تصرفی تو خود بحث نداشته باشم و صرفا بعضی جاها توضیحات بیشتری بدم.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on مهدی خوشنودی</title>
     <link>https://mehdy.me/fa/pages/</link>
@@ -11,28 +11,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Fri, 23 Oct 2020 14:16:00 +0330</lastBuildDate><atom:link href="https://mehdy.me/fa/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 14:16:00 +0330</lastBuildDate>
+    <atom:link href="https://mehdy.me/fa/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>خدمات</title>
       <link>https://mehdy.me/fa/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/</link>
       <pubDate>Fri, 23 Oct 2020 14:16:00 +0330</pubDate>
-      
       <guid>https://mehdy.me/fa/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/</guid>
       <description>در ادامه سه دستهٔ کلی از خدمات رو لیست کرده‌ام. ببینید آیا گزینهٔ مناسبی برای شما وجود دارد یا نه. در صورتی که تمایل داشتید از خدماتی که بهشون اشاره کرده‌ام استفاده بکنید یا بیشتر در موردشون بدونید کافیه تا به من یک ایمیل بزنید تا در مورد جزییاتش با هم گپ بزنیم.
 اگر در بین خدمات زیر چیز خاصی توجه شما رو جلب نکرد ولی به هر حال مایل بودید تا مسئله‌ای که تو ذهن‌تون هست رو با من مطرح کنید کافیه پیام بدید.</description>
     </item>
-    
     <item>
       <title>دربارهٔ من</title>
       <link>https://mehdy.me/fa/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87%D9%94-%D9%85%D9%86/</link>
       <pubDate>Fri, 23 Oct 2020 14:15:00 +0330</pubDate>
-      
       <guid>https://mehdy.me/fa/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87%D9%94-%D9%85%D9%86/</guid>
       <description>حدس میزنم که دیگه تا الان اسمم رو می‌دونید. از حدود ۱۰ سالگی شروع کردم به بازی کردن با کد و از همون موقع‌ها محسور و مجذوبش شدم.
 علاقهٔ خیلی زیادی نسبت به مهندسی نرم‌افزار، استارتاپ و راهبری دارم و در موردشون بسیار پر شور و شوقم. مقداری زیادی از زمانم رو صرف کتاب و مقاله خوندن، دیدن ارائه‌های فنی و تجربه کردن روی این موضوعات می‌کنم.
 در اوقات فراغتم، معمولا مشغول ساختن و مشارکت در توسعهٔ نرم‌افزارهای اوپن سورس هستم.</description>
     </item>
-    
-    
   </channel>
 </rss>

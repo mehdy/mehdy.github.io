@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehdi Khoshnoodi</title>
     <link>https://mehdy.me/en/</link>
@@ -11,98 +11,80 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Feb 2023 15:00:00 +0300</lastBuildDate><atom:link href="https://mehdy.me/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 15:00:00 +0300</lastBuildDate>
+    <atom:link href="https://mehdy.me/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Can You Solve This?</title>
       <link>https://mehdy.me/en/posts/2023/02/can-you-solve-this/</link>
       <pubDate>Fri, 10 Feb 2023 15:00:00 +0300</pubDate>
-      
       <guid>https://mehdy.me/en/posts/2023/02/can-you-solve-this/</guid>
       <description>Today when I was riding the bus I thought &amp;ldquo;would it be possible to efficiently utilize the seats so that each individual would sit as long as possible?&amp;rdquo;. The short answer is for reality is probably &amp;ldquo;NO!&amp;rdquo; but let&amp;rsquo;s have fun with the problem in theory at least :)
 Let&amp;rsquo;s say that we have a bus route with 50 stops and the distance between each consecutive pair is constant. The bus has 20 seats (Let&amp;rsquo;s focus on one bus for now).</description>
     </item>
-    
     <item>
       <title>How GitLens enhanced my commits</title>
       <link>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</link>
       <pubDate>Fri, 08 Jan 2021 16:30:00 +0330</pubDate>
-      
       <guid>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</guid>
       <description>I&amp;rsquo;ve been using GitLens on VS Code since always! The reason I Installed GitLens is being one of the most popular and recommended extensions on the marketplace. But recently I&amp;rsquo;ve noticed how its current line blame feature has made my whole committing process much better.
 Of course, I knew about Git blame long before even GitLens came into existence. Although it&amp;rsquo;s a great tool to exploit git history, It&amp;rsquo;s not handy and easy to use and so it&amp;rsquo;s not commonly used.</description>
     </item>
-    
     <item>
       <title>Services</title>
       <link>https://mehdy.me/en/services/</link>
       <pubDate>Fri, 23 Oct 2020 14:16:00 +0330</pubDate>
-      
       <guid>https://mehdy.me/en/services/</guid>
       <description>There are three general services I&amp;rsquo;ve listed below. See if there&amp;rsquo;s anything suitable for you and if you found one just let me know by sending me an email and we&amp;rsquo;ll discuss it further.
 If you didn&amp;rsquo;t find any of the services suitalble for you and you were still willing to discuss something on your mind with me just let me know.
 If you want to get to know me better, you can read about me.</description>
     </item>
-    
     <item>
       <title>About Me</title>
       <link>https://mehdy.me/en/about-me/</link>
       <pubDate>Fri, 23 Oct 2020 14:15:00 +0330</pubDate>
-      
       <guid>https://mehdy.me/en/about-me/</guid>
       <description>I guess you know my name by now. I started playing with code when I was 10 and I&amp;rsquo;ve been enchanted with software since then.
 I am super-passionate about software engineering, startups and leadership. I spend a lot of time on reading books and articles, watching tech talks and experimenting on these subjects.
 In my spare time, I&amp;rsquo;m mostly building software and contributing to open source softwares. I like to watch movies and series a lot.</description>
     </item>
-    
     <item>
       <title>The journey of blogging for fun</title>
       <link>https://mehdy.me/en/posts/2020/08/the-journey-of-blogging-for-fun/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://mehdy.me/en/posts/2020/08/the-journey-of-blogging-for-fun/</guid>
       <description>As long as I remember, I&amp;rsquo;ve always enjoyed blogging and wanted to do it more. But unfortunately, it never happened. Recently, I came to realize that the high standards I had for the quality of my posts were possibly the most important reason not to write. Basically, I had always wanted a professional blog! By professional, I mean a blog which the author makes a living out it; and maybe some other people as well!</description>
     </item>
-    
     <item>
       <title>The story of a nil pointer receiver</title>
       <link>https://mehdy.me/en/posts/2017/10/the-story-of-a-nil-pointer-receiver/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://mehdy.me/en/posts/2017/10/the-story-of-a-nil-pointer-receiver/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s assume we want to store &lt;code&gt;Gender&lt;/code&gt; as an attribute for our users.
 And since we use PostgreSQL we can define an enum for gender like this:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fun Hack: Copy commands to a local VM without clipboard</title>
       <link>https://mehdy.me/en/posts/2017/07/fun-hack-copy-commands-to-a-local-vm-without-clipboard/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://mehdy.me/en/posts/2017/07/fun-hack-copy-commands-to-a-local-vm-without-clipboard/</guid>
       <description>I was following an instruction to deploy an application on a Virtualbox VM and I wanted to execute the long commands. By default it’s not possible to copy those command into the VM. VirtualBox has a shared clipboard feature which I tried to get it working but it didn&amp;rsquo;t happen so I didn’t dig into it and I came up with a funny hack :D I sent the commands through a socket :)</description>
     </item>
-    
     <item>
       <title>The Battlefield</title>
       <link>https://mehdy.me/en/posts/2017/05/the-battlefield/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://mehdy.me/en/posts/2017/05/the-battlefield/</guid>
       <description>Battlefield is a project that I&amp;rsquo;ve started in TehPUG. you can read the story behind it and see how I decided to start this project here.
 So far till now I experienced some projects and activities that didn&amp;rsquo;t work out as I expected. I asked my self what are the requirements to activate and motivate TehPUG. I came up with a few answers&amp;hellip;
 It should be suitable for everyone. from the very beginner that learned something about python today to the python expert.</description>
     </item>
-    
     <item>
       <title>The TehPUG</title>
       <link>https://mehdy.me/en/posts/2017/05/the-tehpug/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://mehdy.me/en/posts/2017/05/the-tehpug/</guid>
       <description>Let me introduce TehPUG. TehPUG is the Tehran Python Users Group like any other PUG around the world. People who love python or have heard it recently and want to learn more about it. We have meetups every month. Come and join us if you love python too.
 A little background I was new to python when I joined TehPUG in its early days. There were people who helped me learn more about python and even give me a chance to do some practical stuffs.</description>
     </item>
-    
-    
   </channel>
 </rss>
