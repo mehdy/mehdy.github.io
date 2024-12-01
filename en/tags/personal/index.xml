@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Personal on Mehdi Khoshnoodi</title>
     <link>https://mehdy.me/en/tags/personal/</link>
@@ -9,16 +9,18 @@
       <url>https://mehdy.me/images/avatar.jpg</url>
       <link>https://mehdy.me/images/avatar.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 10:10:00 +0330</lastBuildDate>
     <atom:link href="https://mehdy.me/en/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The journey of blogging for fun</title>
       <link>https://mehdy.me/en/posts/2020/08/the-journey-of-blogging-for-fun/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://mehdy.me/en/posts/2020/08/the-journey-of-blogging-for-fun/</guid>
-      <description>As long as I remember, I&amp;rsquo;ve always enjoyed blogging and wanted to do it more. But unfortunately, it never happened. Recently, I came to realize that the high standards I had for the quality of my posts were possibly the most important reason not to write. Basically, I had always wanted a professional blog! By professional, I mean a blog which the author makes a living out it; and maybe some other people as well!</description>
+      <description>&lt;p&gt;As long as I remember, I&amp;rsquo;ve always enjoyed blogging and wanted to do it more. But unfortunately, it never happened.
+Recently, I came to realize that the high standards I had for the quality of my posts were possibly the most important reason not to write.
+Basically, I had always wanted a professional blog! By professional, I mean a blog which the author makes a living out it; and maybe some other people as well! And the effort I was willing to make was just a little bit more than tweeting!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

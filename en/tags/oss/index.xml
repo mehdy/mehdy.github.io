@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>OSS on Mehdi Khoshnoodi</title>
     <link>https://mehdy.me/en/tags/oss/</link>
@@ -9,18 +9,24 @@
       <url>https://mehdy.me/images/avatar.jpg</url>
       <link>https://mehdy.me/images/avatar.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 10:10:00 +0330</lastBuildDate>
     <atom:link href="https://mehdy.me/en/tags/oss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Battlefield</title>
       <link>https://mehdy.me/en/posts/2017/05/the-battlefield/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       <guid>https://mehdy.me/en/posts/2017/05/the-battlefield/</guid>
-      <description>Battlefield is a project that I&amp;rsquo;ve started in TehPUG. you can read the story behind it and see how I decided to start this project here.
-So far till now I experienced some projects and activities that didn&amp;rsquo;t work out as I expected. I asked my self what are the requirements to activate and motivate TehPUG. I came up with a few answers&amp;hellip;
-It should be suitable for everyone. from the very beginner that learned something about python today to the python expert.</description>
+      <description>&lt;p&gt;Battlefield is a project that I&amp;rsquo;ve started in &lt;a href=&#34;http://tehpug.ir&#34;&gt;TehPUG&lt;/a&gt;. you can read the story behind it and see how I decided to start this project &lt;a href=&#34;https://mehdy.me/posts/2017/05/the-tehpug/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So far till now I experienced some projects and activities that didn&amp;rsquo;t work out as I expected. I asked my self what are the requirements to activate and motivate TehPUG. I came up with a few answers&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It should be suitable for everyone. from the very beginner that learned something about python today to the python expert. they all should be able to participate.&lt;/li&gt;
+&lt;li&gt;It should be able to engage as many people as possible&lt;/li&gt;
+&lt;li&gt;It should be endless. it shouldn&amp;rsquo;t be a project that we do for a while and when it&amp;rsquo;s done it&amp;rsquo;s there are nothing else to do.&lt;/li&gt;
+&lt;li&gt;It should be fun and attractive and also useful and helpful&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So based on these criteria I came up with an idea. A battlefield. A field for robots to fight.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

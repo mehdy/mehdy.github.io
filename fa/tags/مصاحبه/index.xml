@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>مصاحبه on مهدی خوشنودی</title>
     <link>https://mehdy.me/fa/tags/%D9%85%D8%B5%D8%A7%D8%AD%D8%A8%D9%87/</link>
@@ -9,7 +9,7 @@
       <url>https://mehdy.me/images/avatar.jpg</url>
       <link>https://mehdy.me/images/avatar.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>fa</language>
     <lastBuildDate>Mon, 09 Nov 2020 22:30:00 +0330</lastBuildDate>
     <atom:link href="https://mehdy.me/fa/tags/%D9%85%D8%B5%D8%A7%D8%AD%D8%A8%D9%87/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,9 @@
       <link>https://mehdy.me/fa/posts/2020/11/%D8%B3%DB%8C%D8%B1-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%A7%D8%B2-%D8%B3%D9%86%D8%AC%D8%A7%D8%A8/</link>
       <pubDate>Mon, 09 Nov 2020 22:30:00 +0330</pubDate>
       <guid>https://mehdy.me/fa/posts/2020/11/%D8%B3%DB%8C%D8%B1-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%A7%D8%B2-%D8%B3%D9%86%D8%AC%D8%A7%D8%A8/</guid>
-      <description>سنجاب (Sanjjob) یک پروژهٔ خیلی ساده بود تا به کسایی که می‌خوان مسیر حرفه‌ایشون رو بهبود بدن کمک کنیم. این خدمات رو در قالب «نقد و بررسی رزومه»، «نوشتن رزومه» و «مشاورهٔ مسیر حرفه‌ای» ارائه می‌دادیم. تو این پست خلاصه‌ای از داستان شکل‌گیری و ادامهٔ مسیر این پروژه نوشته‌ام.
-اولین برخورد من با رزومه شنبه ۱۴ تیر ۹۳ یک آگهی استخدام دولوپر پایتون برای شرکت خاک، که متاسفانه الان دیگه وجود نداره، دیدم.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sanjjob.com&#34;&gt;سنجاب (Sanjjob)&lt;/a&gt; یک پروژهٔ خیلی ساده بود تا به کسایی که می‌خوان مسیر حرفه‌ایشون رو بهبود بدن کمک کنیم. این خدمات رو در قالب «نقد و بررسی رزومه»، «نوشتن رزومه» و «مشاورهٔ مسیر حرفه‌ای» ارائه می‌دادیم. تو این پست خلاصه‌ای از داستان شکل‌گیری و ادامهٔ مسیر این پروژه نوشته‌ام.&lt;/p&gt;
+&lt;h2 id=&#34;اولین-برخورد-من-با-رزومه&#34;&gt;اولین برخورد من با رزومه&lt;/h2&gt;
+&lt;p&gt;شنبه ۱۴ تیر ۹۳ یک آگهی استخدام دولوپر پایتون برای شرکت خاک، که متاسفانه الان دیگه وجود نداره،  دیدم. من هم اول راه بودم و فقط می‌خواستم برم سر کار. شروع کردم به نوشتن اولین رزومه‌ام و از اونجایی که چیز خاصی هم برای ارائه نداشتم خیلی سریع تموم شد و رزومه رو فرستادم. برای فرداش یک جلسهٔ مصاحبه تنظیم شد و دوشنبه ۱۶ تیر ۹۳ اولین روز اولین کار من بود.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

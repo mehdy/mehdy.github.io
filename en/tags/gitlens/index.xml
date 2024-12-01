@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GitLens on Mehdi Khoshnoodi</title>
     <link>https://mehdy.me/en/tags/gitlens/</link>
@@ -9,7 +9,7 @@
       <url>https://mehdy.me/images/avatar.jpg</url>
       <link>https://mehdy.me/images/avatar.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Fri, 08 Jan 2021 16:30:00 +0330</lastBuildDate>
     <atom:link href="https://mehdy.me/en/tags/gitlens/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,8 @@
       <link>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</link>
       <pubDate>Fri, 08 Jan 2021 16:30:00 +0330</pubDate>
       <guid>https://mehdy.me/en/posts/2021/01/how-gitlens-enhanced-my-commits/</guid>
-      <description>I&amp;rsquo;ve been using GitLens on VS Code since always! The reason I Installed GitLens is being one of the most popular and recommended extensions on the marketplace. But recently I&amp;rsquo;ve noticed how its current line blame feature has made my whole committing process much better.
-Of course, I knew about Git blame long before even GitLens came into existence. Although it&amp;rsquo;s a great tool to exploit git history, It&amp;rsquo;s not handy and easy to use and so it&amp;rsquo;s not commonly used.</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve been using &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&#34;&gt;GitLens&lt;/a&gt; on VS Code since always! The reason I Installed GitLens is being one of the most popular and recommended extensions on the marketplace. But recently I&amp;rsquo;ve noticed how its &lt;a href=&#34;https://github.com/eamodio/vscode-gitlens#current-line-blame-&#34;&gt;current line blame&lt;/a&gt; feature has made my whole committing process much better.&lt;/p&gt;
+&lt;p&gt;Of course, I knew about &lt;a href=&#34;https://git-scm.com/docs/git-blame&#34;&gt;Git blame&lt;/a&gt; long before even GitLens came into existence. Although it&amp;rsquo;s a great tool to exploit git history, It&amp;rsquo;s not handy and easy to use and so it&amp;rsquo;s not commonly used. Or at least, not as common as seeing the current line blame at all times.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

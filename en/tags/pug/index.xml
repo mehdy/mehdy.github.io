@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PUG on Mehdi Khoshnoodi</title>
     <link>https://mehdy.me/en/tags/pug/</link>
@@ -9,17 +9,18 @@
       <url>https://mehdy.me/images/avatar.jpg</url>
       <link>https://mehdy.me/images/avatar.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 10:10:00 +0330</lastBuildDate>
     <atom:link href="https://mehdy.me/en/tags/pug/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The TehPUG</title>
       <link>https://mehdy.me/en/posts/2017/05/the-tehpug/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       <guid>https://mehdy.me/en/posts/2017/05/the-tehpug/</guid>
-      <description>Let me introduce TehPUG. TehPUG is the Tehran Python Users Group like any other PUG around the world. People who love python or have heard it recently and want to learn more about it. We have meetups every month. Come and join us if you love python too.
-A little background I was new to python when I joined TehPUG in its early days. There were people who helped me learn more about python and even give me a chance to do some practical stuffs.</description>
+      <description>&lt;p&gt;Let me introduce &lt;a href=&#34;http://tehpug.ir&#34;&gt;TehPUG&lt;/a&gt;. TehPUG is the Tehran Python Users Group like any other PUG around the world. People who love python or have heard it recently and want to learn more about it. We have meetups every month. Come and join us if you love python too.&lt;/p&gt;
+&lt;h2 id=&#34;a-little-background&#34;&gt;A little background&lt;/h2&gt;
+&lt;p&gt;I was new to python when I joined TehPUG in its early days. There were people who helped me learn more about python and even give me a chance to do some practical stuffs. I&amp;rsquo;m very grateful to each one of them individually. Time passed by and I integrated more and more with TehPUG and finally became one of it&amp;rsquo;s core member. &lt;strong&gt;Now I had the chance to help others as I was helped&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on Mehdi Khoshnoodi</title>
     <link>https://mehdy.me/en/pages/</link>
@@ -9,27 +9,28 @@
       <url>https://mehdy.me/images/avatar.jpg</url>
       <link>https://mehdy.me/images/avatar.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2020 14:16:00 +0330</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 10:00:00 +0100</lastBuildDate>
     <atom:link href="https://mehdy.me/en/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Services</title>
       <link>https://mehdy.me/en/services/</link>
       <pubDate>Fri, 23 Oct 2020 14:16:00 +0330</pubDate>
       <guid>https://mehdy.me/en/services/</guid>
-      <description>There are three general services I&amp;rsquo;ve listed below. See if there&amp;rsquo;s anything suitable for you and if you found one just let me know by sending me an email and we&amp;rsquo;ll discuss it further.
-If you didn&amp;rsquo;t find any of the services suitalble for you and you were still willing to discuss something on your mind with me just let me know.
-If you want to get to know me better, you can read about me.</description>
+      <description>&lt;p&gt;There are three general services I&amp;rsquo;ve listed below. See if there&amp;rsquo;s anything suitable for you and if you found one just let me know by sending me an &lt;a href=&#34;mailto:mehdy.khoshnoody+blog@gmail.com&#34;&gt;email&lt;/a&gt; and we&amp;rsquo;ll discuss it further.&lt;br&gt;
+If you didn&amp;rsquo;t find any of the services suitable for you and you were still willing to discuss something on your mind with me just let me know.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;If you want to get to know me better, you can read &lt;a href=&#34;https://mehdy.me/en/about-me/&#34;&gt;about me&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
       <link>https://mehdy.me/en/about-me/</link>
       <pubDate>Fri, 23 Oct 2020 14:15:00 +0330</pubDate>
       <guid>https://mehdy.me/en/about-me/</guid>
-      <description>I guess you know my name by now. I started playing with code when I was 10 and I&amp;rsquo;ve been enchanted with software since then.
-I am super-passionate about software engineering, startups and leadership. I spend a lot of time on reading books and articles, watching tech talks and experimenting on these subjects.
-In my spare time, I&amp;rsquo;m mostly building software and contributing to open source softwares. I like to watch movies and series a lot.</description>
+      <description>&lt;p&gt;I guess you know my name by now. I started playing with code when I was 10 and I&amp;rsquo;ve been enchanted with software since then.&lt;br&gt;
+I am super-passionate about &lt;strong&gt;software engineering&lt;/strong&gt;, &lt;strong&gt;startups&lt;/strong&gt; and &lt;strong&gt;leadership&lt;/strong&gt;. I spend a lot of time on reading books and articles, watching tech talks and experimenting on these subjects.&lt;br&gt;
+In my spare time, I&amp;rsquo;m mostly building software and contributing to open source softwares. I like to watch movies and series a lot. And last but not least, I try to keep blogging.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
