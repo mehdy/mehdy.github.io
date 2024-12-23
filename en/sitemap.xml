@@ -2,17 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdy.me/en/tags/algorithm/</loc>
-    <lastmod>2023-02-10T15:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://mehdy.me/en/posts/2023/02/can-you-solve-this/</loc>
-    <lastmod>2023-02-10T15:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://mehdy.me/en/tags/fun/</loc>
-    <lastmod>2023-02-10T15:00:00+03:00</lastmod>
+    <loc>https://mehdy.me/en/tags/investment/</loc>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/</loc>
-    <lastmod>2023-12-25T11:00:00+01:00</lastmod>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -24,8 +18,11 @@
                 href="https://mehdy.me/en/"
                 />
   </url><url>
+    <loc>https://mehdy.me/en/tags/newsletter/</loc>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://mehdy.me/en/posts/</loc>
-    <lastmod>2023-12-25T11:00:00+01:00</lastmod>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -37,11 +34,14 @@
                 href="https://mehdy.me/en/posts/"
                 />
   </url><url>
-    <loc>https://mehdy.me/en/tags/problem/</loc>
-    <lastmod>2023-02-10T15:00:00+03:00</lastmod>
+    <loc>https://mehdy.me/en/posts/2024/12/solving-vs.-solution/</loc>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/startup/</loc>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/tags/</loc>
-    <lastmod>2023-12-25T11:00:00+01:00</lastmod>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -52,6 +52,36 @@
                 hreflang="en"
                 href="https://mehdy.me/en/tags/"
                 />
+  </url><url>
+    <loc>https://mehdy.me/en/tags/book/</loc>
+    <lastmod>2024-12-16T21:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/posts/2024/12/fear-not/</loc>
+    <lastmod>2024-12-16T21:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/blogging/</loc>
+    <lastmod>2023-02-13T15:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/posts/2023/02/last-weeks-good-content/</loc>
+    <lastmod>2023-02-13T15:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/personal/</loc>
+    <lastmod>2023-02-13T15:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/algorithm/</loc>
+    <lastmod>2023-02-10T15:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/posts/2023/02/can-you-solve-this/</loc>
+    <lastmod>2023-02-10T15:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/fun/</loc>
+    <lastmod>2023-02-10T15:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/problem/</loc>
+    <lastmod>2023-02-10T15:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/posts/2023/02/i-write-therefore-i-am/</loc>
+    <lastmod>2023-02-06T15:00:00+03:00</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/tags/git/</loc>
     <lastmod>2021-01-08T16:30:00+03:30</lastmod>
@@ -103,12 +133,6 @@
                 hreflang="en"
                 href="https://mehdy.me/en/about-me/"
                 />
-  </url><url>
-    <loc>https://mehdy.me/en/tags/blogging/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
-  </url><url>
-    <loc>https://mehdy.me/en/tags/personal/</loc>
-    <lastmod>2020-10-17T10:10:00+03:30</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/posts/2020/08/the-journey-of-blogging-for-fun/</loc>
     <lastmod>2020-10-17T10:10:00+03:30</lastmod>

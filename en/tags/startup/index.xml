@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Startup on Mehdi Khoshnoodi</title>
+    <link>https://mehdy.me/en/tags/startup/</link>
+    <description>Recent content in Startup on Mehdi Khoshnoodi</description>
+    <image>
+      <title>Mehdi Khoshnoodi</title>
+      <url>https://mehdy.me/images/avatar.jpg</url>
+      <link>https://mehdy.me/images/avatar.jpg</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2024 21:00:00 +0100</lastBuildDate>
+    <atom:link href="https://mehdy.me/en/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solving vs. Solution</title>
+      <link>https://mehdy.me/en/posts/2024/12/solving-vs.-solution/</link>
+      <pubDate>Mon, 23 Dec 2024 21:00:00 +0100</pubDate>
+      <guid>https://mehdy.me/en/posts/2024/12/solving-vs.-solution/</guid>
+      <description>#4 — The core principal of entrepreneurship</description>
+    </item>
+    <item>
+      <title>Fear NOT</title>
+      <link>https://mehdy.me/en/posts/2024/12/fear-not/</link>
+      <pubDate>Mon, 16 Dec 2024 21:00:00 +0100</pubDate>
+      <guid>https://mehdy.me/en/posts/2024/12/fear-not/</guid>
+      <description>#3 — Reboot the newsletter and fight fears</description>
+    </item>
+  </channel>
+</rss>
