@@ -11,8 +11,43 @@
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Dec 2024 21:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 21:00:00 +0100</lastBuildDate>
     <atom:link href="https://mehdy.me/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>https://mehdy.me/en/tags/book/</link>
+      <pubDate>Mon, 30 Dec 2024 21:00:00 +0100</pubDate>
+      <guid>https://mehdy.me/en/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goal</title>
+      <link>https://mehdy.me/en/tags/goal/</link>
+      <pubDate>Mon, 30 Dec 2024 21:00:00 +0100</pubDate>
+      <guid>https://mehdy.me/en/tags/goal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movie</title>
+      <link>https://mehdy.me/en/tags/movie/</link>
+      <pubDate>Mon, 30 Dec 2024 21:00:00 +0100</pubDate>
+      <guid>https://mehdy.me/en/tags/movie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Newsletter</title>
+      <link>https://mehdy.me/en/tags/newsletter/</link>
+      <pubDate>Mon, 30 Dec 2024 21:00:00 +0100</pubDate>
+      <guid>https://mehdy.me/en/tags/newsletter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Series</title>
+      <link>https://mehdy.me/en/tags/series/</link>
+      <pubDate>Mon, 30 Dec 2024 21:00:00 +0100</pubDate>
+      <guid>https://mehdy.me/en/tags/series/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Investment</title>
       <link>https://mehdy.me/en/tags/investment/</link>
@@ -21,24 +56,10 @@
       <description></description>
     </item>
     <item>
-      <title>Newsletter</title>
-      <link>https://mehdy.me/en/tags/newsletter/</link>
-      <pubDate>Mon, 23 Dec 2024 21:00:00 +0100</pubDate>
-      <guid>https://mehdy.me/en/tags/newsletter/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Startup</title>
       <link>https://mehdy.me/en/tags/startup/</link>
       <pubDate>Mon, 23 Dec 2024 21:00:00 +0100</pubDate>
       <guid>https://mehdy.me/en/tags/startup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Book</title>
-      <link>https://mehdy.me/en/tags/book/</link>
-      <pubDate>Mon, 16 Dec 2024 21:00:00 +0100</pubDate>
-      <guid>https://mehdy.me/en/tags/book/</guid>
       <description></description>
     </item>
     <item>

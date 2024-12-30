@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdy.me/en/tags/investment/</loc>
-    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+    <loc>https://mehdy.me/en/posts/2024/12/2024-wrapped-up/</loc>
+    <lastmod>2024-12-30T21:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/book/</loc>
+    <lastmod>2024-12-30T21:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/goal/</loc>
+    <lastmod>2024-12-30T21:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/</loc>
-    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+    <lastmod>2024-12-30T21:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -18,11 +24,14 @@
                 href="https://mehdy.me/en/"
                 />
   </url><url>
+    <loc>https://mehdy.me/en/tags/movie/</loc>
+    <lastmod>2024-12-30T21:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://mehdy.me/en/tags/newsletter/</loc>
-    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+    <lastmod>2024-12-30T21:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/posts/</loc>
-    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+    <lastmod>2024-12-30T21:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -34,14 +43,11 @@
                 href="https://mehdy.me/en/posts/"
                 />
   </url><url>
-    <loc>https://mehdy.me/en/posts/2024/12/solving-vs.-solution/</loc>
-    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdy.me/en/tags/startup/</loc>
-    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+    <loc>https://mehdy.me/en/tags/series/</loc>
+    <lastmod>2024-12-30T21:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/tags/</loc>
-    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+    <lastmod>2024-12-30T21:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -53,8 +59,14 @@
                 href="https://mehdy.me/en/tags/"
                 />
   </url><url>
-    <loc>https://mehdy.me/en/tags/book/</loc>
-    <lastmod>2024-12-16T21:00:00+01:00</lastmod>
+    <loc>https://mehdy.me/en/tags/investment/</loc>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/posts/2024/12/solving-vs.-solution/</loc>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdy.me/en/tags/startup/</loc>
+    <lastmod>2024-12-23T21:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mehdy.me/en/posts/2024/12/fear-not/</loc>
     <lastmod>2024-12-16T21:00:00+01:00</lastmod>
